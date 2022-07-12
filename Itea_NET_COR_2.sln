@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Itea_NET_COR_2", "Itea_NET_COR_2\Itea_NET_COR_2.csproj", "{C630FC93-30A6-416C-878D-034D6DA67B19}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BL", "BL\BL.csproj", "{248F4EDE-3E7C-4859-B3F4-8F3D36B99F46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{22114B73-7EF0-4198-909A-FADEB41C5BB7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{C630FC93-30A6-416C-878D-034D6DA67B19}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C630FC93-30A6-416C-878D-034D6DA67B19}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C630FC93-30A6-416C-878D-034D6DA67B19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{248F4EDE-3E7C-4859-B3F4-8F3D36B99F46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{248F4EDE-3E7C-4859-B3F4-8F3D36B99F46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{248F4EDE-3E7C-4859-B3F4-8F3D36B99F46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{248F4EDE-3E7C-4859-B3F4-8F3D36B99F46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22114B73-7EF0-4198-909A-FADEB41C5BB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22114B73-7EF0-4198-909A-FADEB41C5BB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22114B73-7EF0-4198-909A-FADEB41C5BB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22114B73-7EF0-4198-909A-FADEB41C5BB7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
